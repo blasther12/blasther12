@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Oliveira — Software Engineer Specialist</title>
+  <desc id="desc">Banner escuro com uma rede de nós representando sistemas distribuídos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0c1b31"/>
+      <stop offset="1" stop-color="#111331"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8fb6d9" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1055" cy="40" r="240" fill="url(#glow)"/>
+  <circle cx="115" cy="350" r="180" fill="#8b5cf6" opacity=".08"/>
+
+  <g opacity=".48" stroke-linecap="round">
+    <path d="M820 95L915 54L1010 113L1110 72" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M820 95L878 180L1010 113L1070 207L1150 170" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+    <path d="M878 180L952 278L1070 207L1150 270" fill="none" stroke="#a78bfa" stroke-width="2"/>
+    <path d="M1010 113L952 278" fill="none" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 9"/>
+  </g>
+
+  <g>
+    <g fill="#38bdf8"><circle cx="820" cy="95" r="7"/><circle cx="915" cy="54" r="6"/><circle cx="1010" cy="113" r="9"/></g>
+    <g fill="#2dd4bf"><circle cx="878" cy="180" r="8"/><circle cx="1070" cy="207" r="10"/><circle cx="1150" cy="170" r="6"/></g>
+    <g fill="#a78bfa"><circle cx="952" cy="278" r="9"/><circle cx="1150" cy="270" r="7"/><circle cx="1110" cy="72" r="6"/></g>
+    <g fill="none" stroke="#e2e8f0" stroke-opacity=".25">
+      <circle cx="1070" cy="207" r="22"/><circle cx="1010" cy="113" r="20"/>
+    </g>
+  </g>
+
+  <rect x="72" y="58" width="224" height="32" rx="16" fill="#10253d" stroke="#38bdf8" stroke-opacity=".35"/>
+  <circle cx="92" cy="74" r="5" fill="#2dd4bf"/>
+  <text x="107" y="80" fill="#a9c5db" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">software.engineer()</text>
+
+  <text x="72" y="158" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" font-size="55" letter-spacing="-1.5">Rafael Oliveira</text>
+  <rect x="72" y="184" width="570" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="232" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">Software Engineer Specialist</text>
+  <text x="72" y="274" fill="#8fb6d9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Distributed Systems · Architecture · Cloud · Observability · AI</text>
+
+  <g transform="translate(72 306)">
+    <path d="M8 0a8 8 0 0 0-8 8c0 6 8 14 8 14s8-8 8-14a8 8 0 0 0-8-8Zm0 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z" fill="#64748b"/>
+    <text x="26" y="16" fill="#64748b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Curitiba · Brasil</text>
+  </g>
+</svg>
