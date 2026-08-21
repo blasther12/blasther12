@@ -74,16 +74,6 @@ Gerenciador financeiro pessoal full-stack orientado a estado financeiro, orçame
 - Modelagem financeira com precisão monetária e regras de domínio
 - Testes, migrations e pipeline automatizado de releases
 
-## Projetos selecionados
-
-| Projeto | O que demonstra |
-| --- | --- |
-| **[Finora](https://github.com/blasther12/finora)** | Produto full-stack, domínio financeiro, arquitetura e qualidade |
-| **[Products Service](https://github.com/blasther12/products)** | API em .NET 8, PostgreSQL, Entity Framework, Docker e testes |
-| **[Desafio Luizalabs](https://github.com/blasther12/desafio_luizalabs)** | DDD, autenticação JWT e construção de APIs com .NET |
-| **[Chronos Pomodoro](https://github.com/blasther12/chronos-pomodoro)** | React, TypeScript, Vite e experiência de produto |
-| **[Neovim](https://github.com/blasther12/nvim)** | Developer experience e ambiente de desenvolvimento em Lua |
-
 ## Trajetória recente
 
 | Período | Atuação |
