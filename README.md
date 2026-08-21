@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://blasther12.github.io">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-Artigos_%26_Projetos-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/rafael-oliveira-44b701160/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -91,12 +94,14 @@ Gerenciador financeiro pessoal full-stack orientado a estado financeiro, orçame
 
 ## Escrevendo sobre
 
-Arquitetura de software, sistemas distribuídos, observabilidade, cloud, developer experience e IA aplicada ao ciclo de desenvolvimento.
+No meu [blog](https://blasther12.github.io), compartilho artigos sobre arquitetura de software, sistemas distribuídos, observabilidade, cloud, developer experience e IA aplicada ao ciclo de desenvolvimento.
 
 <p align="center">
   <br>
   <strong>Software melhor nasce de contexto, escolhas explícitas e ciclos curtos de aprendizado.</strong>
   <br><br>
+  <a href="https://blasther12.github.io">Blog</a>
+  ·
   <a href="mailto:rafaoli1212@outlook.com">Vamos conversar</a>
   ·
   <a href="https://www.linkedin.com/in/rafael-oliveira-44b701160/">LinkedIn</a>
