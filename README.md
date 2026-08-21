@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/profile-photo.png" alt="Retrato de Rafael Oliveira" width="190">
+</p>
+
+<p align="center">
   <a href="https://blasther12.github.io">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-Artigos_%26_Projetos-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
